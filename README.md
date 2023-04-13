@@ -18,6 +18,11 @@ howTo:
    4. ./orgone
 
 
+options:
+
+   -s   generates a single unformatted line of orgone
+
+
 toDo:
 
    1. user specified orgone quantity
